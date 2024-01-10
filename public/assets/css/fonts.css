@@ -1,0 +1,10 @@
+@font-face {
+    font-family: kurd;
+    src: url("../fonts/db.ttf");
+}
+
+
+body{
+    font-family: 'kurd';
+}
+
